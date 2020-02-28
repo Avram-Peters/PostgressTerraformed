@@ -1,4 +1,4 @@
-#DADU Terraformed
+# DADU Terraformed
 
 ## Purpose
 To effectively deploy the PostgreSQL dvdrental sample database into an AWS RDS Postgres instance. 
